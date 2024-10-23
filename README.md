@@ -48,3 +48,5 @@ To run this project, all you need is a modern web browser (Chrome, Firefox, Edge
 
 ## License
 This project is licensed under the MIT License.
+
+![image](https://github.com/user-attachments/assets/3bb5d158-c516-4594-ac12-218bfc741844)
